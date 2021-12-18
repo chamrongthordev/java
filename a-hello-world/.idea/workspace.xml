@@ -1,37 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9987d496-5c93-47c1-8ffb-83c7146be182" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b368138" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8f6ccab2f71fc7c0dd6b506e31cb856f7a2fa2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-hello-world.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a-hello-world/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/a-hello-world/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/chamrong/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/chamrong/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/.idea/google-java-format.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/b-variable.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/out/production/b-variable/com/company/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../b-variable/src/com/company/Main.java" beforeDir="false" />
-    </list>
+    <list default="true" id="9987d496-5c93-47c1-8ffb-83c7146be182" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,7 +101,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639821728082</updated>
-      <workItem from="1639821738553" duration="87000" />
+      <workItem from="1639821738553" duration="249000" />
     </task>
     <servers />
   </component>
