@@ -1,0 +1,37 @@
+
+O
+java:S1854":Remove this useless assignment to local variable "string".(”¢×j
+V
+java:S1854"@Remove this useless assignment to local variable "doubleNumber".(Â–ïì
+T
+java:S1854">Remove this useless assignment to local variable "characture".(ÎüÔÖ
+U
+java:S1854
+"?Remove this useless assignment to local variable "floatNumber".(÷Ææ
+T
+java:S1854	">Remove this useless assignment to local variable "longNumber".(–’ª†
+X
+java:S1854"=Remove this useless assignment to local variable "intNumber".(Ÿ¸åªùÿÿÿÿ
+U
+java:S1854"?Remove this useless assignment to local variable "shortNumber".(èç¬‹
+T
+java:S1854">Remove this useless assignment to local variable "byteNumber".(İ‚µ±
+E
+java:S1481"/Remove this unused "byteNumber" local variable.(İ‚µ±
+F
+java:S1481"0Remove this unused "shortNumber" local variable.(èç¬‹
+I
+java:S1481".Remove this unused "intNumber" local variable.(Ÿ¸åªùÿÿÿÿ
+E
+java:S1481	"/Remove this unused "longNumber" local variable.(–’ª†
+F
+java:S1481
+"0Remove this unused "floatNumber" local variable.(÷Ææ
+E
+java:S1481"/Remove this unused "characture" local variable.(ÎüÔÖ
+G
+java:S1481"1Remove this unused "doubleNumber" local variable.(Â–ïì
+@
+java:S1481"+Remove this unused "string" local variable.(”¢×j
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ºÆïèıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Œ´›Øøÿÿÿÿ
