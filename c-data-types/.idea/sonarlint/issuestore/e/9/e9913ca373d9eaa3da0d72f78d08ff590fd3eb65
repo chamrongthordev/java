@@ -1,0 +1,31 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "alpabet".(êë‚
+U
+java:S1854
+":Remove this useless assignment to local variable "factor".(ßå¦†şÿÿÿÿ
+V
+java:S1854	"@Remove this useless assignment to local variable "secondNumber".(õ„¤Ó
+U
+java:S1854"?Remove this useless assignment to local variable "firstNumber".(ÍåÉ
+P
+java:S1854":Remove this useless assignment to local variable "userId".(Šáƒç
+R
+java:S1854"7Remove this useless assignment to local variable "age".(õ’Î¨ÿÿÿÿÿ
+C
+java:S1481"(Remove this unused "age" local variable.(õ’Î¨ÿÿÿÿÿ
+A
+java:S1481"+Remove this unused "userId" local variable.(Šáƒç
+F
+java:S1481"0Remove this unused "firstNumber" local variable.(ÍåÉ
+G
+java:S1481	"1Remove this unused "secondNumber" local variable.(õ„¤Ó
+F
+java:S1481
+"+Remove this unused "factor" local variable.(ßå¦†şÿÿÿÿ
+B
+java:S1481",Remove this unused "alpabet" local variable.(êë‚
+A
+java:S1481",Remove this unused "result1" local variable.(ôœÆ2
+G
+java:S1481",Remove this unused "result2" local variable.(³®“ßüÿÿÿÿ
