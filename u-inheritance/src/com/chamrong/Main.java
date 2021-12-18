@@ -10,6 +10,6 @@ public class Main {
 
     System.out.println("First name: " + student.getFirstName());
     System.out.println("Last name: " + student.getLastName());
-    System.out.println("Age: " + student.getAge());
+    System.out.println("Age: " + student.ag);
   }
 }
